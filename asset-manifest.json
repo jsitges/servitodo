@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/servitodo/static/css/main.7b7a544b.chunk.css",
+    "main.js": "/servitodo/static/js/main.fe0edcad.chunk.js",
+    "main.js.map": "/servitodo/static/js/main.fe0edcad.chunk.js.map",
+    "runtime-main.js": "/servitodo/static/js/runtime-main.54af1fbb.js",
+    "runtime-main.js.map": "/servitodo/static/js/runtime-main.54af1fbb.js.map",
+    "static/js/2.c906c940.chunk.js": "/servitodo/static/js/2.c906c940.chunk.js",
+    "static/js/2.c906c940.chunk.js.map": "/servitodo/static/js/2.c906c940.chunk.js.map",
+    "index.html": "/servitodo/index.html",
+    "precache-manifest.cc08c0e0dc7180e4655377af43e9502f.js": "/servitodo/precache-manifest.cc08c0e0dc7180e4655377af43e9502f.js",
+    "service-worker.js": "/servitodo/service-worker.js",
+    "static/css/main.7b7a544b.chunk.css.map": "/servitodo/static/css/main.7b7a544b.chunk.css.map",
+    "static/js/2.c906c940.chunk.js.LICENSE.txt": "/servitodo/static/js/2.c906c940.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/servitodo/static/media/logo.6cd1eae4.png",
+    "static/media/profilePic.jpeg": "/servitodo/static/media/profilePic.93f33577.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54af1fbb.js",
+    "static/js/2.c906c940.chunk.js",
+    "static/css/main.7b7a544b.chunk.css",
+    "static/js/main.fe0edcad.chunk.js"
+  ]
+}
