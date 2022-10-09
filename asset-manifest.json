@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/relativepath/static/css/main.7b7a544b.chunk.css",
-    "main.js": "/relativepath/static/js/main.0649e263.chunk.js",
-    "main.js.map": "/relativepath/static/js/main.0649e263.chunk.js.map",
-    "runtime-main.js": "/relativepath/static/js/runtime-main.ea6c3b92.js",
-    "runtime-main.js.map": "/relativepath/static/js/runtime-main.ea6c3b92.js.map",
-    "static/js/2.c906c940.chunk.js": "/relativepath/static/js/2.c906c940.chunk.js",
-    "static/js/2.c906c940.chunk.js.map": "/relativepath/static/js/2.c906c940.chunk.js.map",
-    "index.html": "/relativepath/index.html",
-    "precache-manifest.000b6a780b49476f01b1646f33543f5c.js": "/relativepath/precache-manifest.000b6a780b49476f01b1646f33543f5c.js",
-    "service-worker.js": "/relativepath/service-worker.js",
-    "static/css/main.7b7a544b.chunk.css.map": "/relativepath/static/css/main.7b7a544b.chunk.css.map",
-    "static/js/2.c906c940.chunk.js.LICENSE.txt": "/relativepath/static/js/2.c906c940.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/relativepath/static/media/logo.6cd1eae4.png",
-    "static/media/profilePic.jpeg": "/relativepath/static/media/profilePic.93f33577.jpeg"
+    "main.css": "/servitodo/static/css/main.7b7a544b.chunk.css",
+    "main.js": "/servitodo/static/js/main.0649e263.chunk.js",
+    "main.js.map": "/servitodo/static/js/main.0649e263.chunk.js.map",
+    "runtime-main.js": "/servitodo/static/js/runtime-main.54af1fbb.js",
+    "runtime-main.js.map": "/servitodo/static/js/runtime-main.54af1fbb.js.map",
+    "static/js/2.c906c940.chunk.js": "/servitodo/static/js/2.c906c940.chunk.js",
+    "static/js/2.c906c940.chunk.js.map": "/servitodo/static/js/2.c906c940.chunk.js.map",
+    "index.html": "/servitodo/index.html",
+    "precache-manifest.d80b7da310c7ae4a109153fc6cca12b1.js": "/servitodo/precache-manifest.d80b7da310c7ae4a109153fc6cca12b1.js",
+    "service-worker.js": "/servitodo/service-worker.js",
+    "static/css/main.7b7a544b.chunk.css.map": "/servitodo/static/css/main.7b7a544b.chunk.css.map",
+    "static/js/2.c906c940.chunk.js.LICENSE.txt": "/servitodo/static/js/2.c906c940.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/servitodo/static/media/logo.6cd1eae4.png",
+    "static/media/profilePic.jpeg": "/servitodo/static/media/profilePic.93f33577.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea6c3b92.js",
+    "static/js/runtime-main.54af1fbb.js",
     "static/js/2.c906c940.chunk.js",
     "static/css/main.7b7a544b.chunk.css",
     "static/js/main.0649e263.chunk.js"
